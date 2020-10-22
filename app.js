@@ -20,9 +20,9 @@ const init = async () => {
 
   // render team
   const renderedTeamOutput = render(team.getEmployees());
-  console.log("[renderedTeamOutput]", renderedTeamOutput);
 
   // output team.html
+  fs.writeFileSync(outputPath, renderedTeamOutput, "utf8");
 };
 
 init();
