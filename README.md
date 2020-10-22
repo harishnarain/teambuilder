@@ -6,6 +6,7 @@ The application is a software engineering team generator command line applicatio
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
+* [Features](#features)
 * [License](#license)
 * [Contributing](#contributing)
 * [Screenshots](#screenshots)
@@ -38,7 +39,7 @@ This project uses the MIT license
 Pull requests are welcome
 ## Screenshots
 [![Walkthrough](http://img.youtube.com/vi/jIA4_Vas8hA/3.jpg)](https://youtu.be/jIA4_Vas8hA)
-![Screenshot](https://github.com/harishnarain/teambuilder/Screenshot.png)
+![Screenshot](https://github.com/harishnarain/teambuilder/blob/master/Screenshot.png?raw=true)
 
 
 ## Questions
