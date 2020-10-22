@@ -23,6 +23,10 @@ const init = async () => {
 
   // output team.html
   fs.writeFileSync(outputPath, renderedTeamOutput, "utf8");
+  console.log("===============================");
+  console.log("# Your team file is ready at: #");
+  console.log("# ./output/team.html          #");
+  console.log("===============================");
 };
 
 init();
